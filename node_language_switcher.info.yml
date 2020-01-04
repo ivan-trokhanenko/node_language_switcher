@@ -1,0 +1,8 @@
+name: 'Node language switcher'
+description: 'Provides a Node language switcher block.'
+package: Multilingual
+type: module
+core: 8.x
+dependencies:
+  - drupal:block
+  - drupal:language
